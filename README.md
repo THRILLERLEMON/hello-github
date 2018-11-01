@@ -1,3 +1,3 @@
 # hello-github
-test for github /n
+test for github
 this is the readme file
